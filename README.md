@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, I'm Ikram👋
 
-<!--
-**ikramdagci/ikramdagci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ I'm passionate self-learner software student.
+
+- 🔭 I’m currently working on my java course graduation project 
+- 🌱 I’m currently learning **Java,Spring,Kotlin,HTML** and **CSS**
+- 📫 How to reach me: ikramdgc@gmail.com
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ikramdagci" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="ikramdagci" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/14920086/idg" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="12544106" height="45" width="45" /></a>
+<a href="https://instagram.com/ikramdagci" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="ikramdagci" height="30" width="30" /></a>
+</p>
+
+
