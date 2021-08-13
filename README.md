@@ -1,7 +1,7 @@
   ## Hi there, I'm Ikram👋
 
 
-  <img align="right" alt="GIF" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+  <img align="right" alt="GIF" width="320" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
  
  I'm passionate self-learner software student and doing masters degree in computer science at Sakarya University. 
