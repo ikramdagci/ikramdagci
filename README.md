@@ -7,8 +7,8 @@
  I'm passionate self-learner software student and doing masters degree in computer science at Sakarya University. 
  I'm from Kocaeli/Turkey 
 
-- 🔭 I’m currently working on my java course graduation project 
-- 🌱 I’m currently learning **Java,Spring,Kotlin,HTML** and **CSS**
+- 🔭 I’m currently working on setup configurations for my job
+- 🌱 I’m currently learning **Service-oriented Architecture,Java,Spring,JavaScript** and **CSS**
 - 📫 How to reach me: ikramdgc@gmail.com
 
 <h3 align="left">Connect with me:</h3>
