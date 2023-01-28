@@ -8,7 +8,7 @@
  I'm from Kocaeli/Turkey 
 
 - 🔭 I’m currently working on setup configurations for my job
-- 🌱 I’m currently learning **Service-oriented Architecture,Java,Spring,JavaScript** and **CSS**
+- 🌱 I’m currently learning **Service-oriented Architecture,JavaScript** and **React**
 - 📫 How to reach me: ikramdgc@gmail.com
 
 <h3 align="left">Connect with me:</h3>
