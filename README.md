@@ -4,12 +4,12 @@
   <img align="right" alt="GIF" width="320" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
  
- I'm passionate self-learner software student and doing masters degree in computer science at Sakarya University. 
- I'm from Kocaeli/Turkey 
+ I am a passionate self-learner and software developer who has completed a master's degree in computer science at Sakarya University. 
+ I am from Kocaeli, Turkey.
 
-- 🔭 I’m currently working on setup configurations for my job
-- 🌱 I’m currently learning **Service-oriented Architecture,JavaScript** and **React**
-- 📫 How to reach me: ikramdgc@gmail.com
+- 🔭 Currently, I am working on user management and UI projects.
+- 🌱 I am currently learning about **Microservices, Performance Tuning SQL**, and **React**.
+- 📫 You can reach me at ikramdgc@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
