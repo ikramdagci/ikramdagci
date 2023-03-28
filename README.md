@@ -4,7 +4,7 @@
   <img align="right" alt="GIF" width="320" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
  
- I am a passionate self-learner and software developer who has completed a master's degree in computer science at Sakarya University. 
+ I am passionate self-learner and software developer who has completed a master's degree in computer science at Sakarya University. 
  I am from Kocaeli, Turkey.
 
 - 🔭 Currently, I am working on user management and UI projects.
